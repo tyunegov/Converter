@@ -1,0 +1,17 @@
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\CurrencyConverterForm.csprojAssemblyReference.cache
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\CurrencyConverterForm.csproj.GenerateResource.cache
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\CurrencyConverterForm.csproj.CoreCompileInputs.cache
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\CurrencyConverterLibrary.dll
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\CurrencyConverterLibrary.pdb
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\obj\Debug\CurrencyConverterForm.csproj.CopyComplete
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\NLog.config
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\NLog.dll
+C:\Users\Тюнеговы\source\repos\WindowsFormsApp1\bin\Debug\NLog.xml

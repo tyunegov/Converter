@@ -1,0 +1,12 @@
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\bin\Debug\netstandard2.0\CurrencyConverterLibrary.deps.json
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\bin\Debug\netstandard2.0\CurrencyConverterLibrary.dll
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\bin\Debug\netstandard2.0\CurrencyConverterLibrary.pdb
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\bin\Debug\netstandard2.0\xNet.dll
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.csprojAssemblyReference.cache
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.AssemblyInfoInputs.cache
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.AssemblyInfo.cs
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.csproj.CopyComplete
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.dll
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.pdb
+C:\Users\Тюнеговы\source\repos\CurrencyConverterLibrary\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
