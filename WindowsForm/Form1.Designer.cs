@@ -45,7 +45,7 @@
             this.buttonResult.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.buttonResult.Size = new System.Drawing.Size(140, 43);
             this.buttonResult.TabIndex = 0;
-            this.buttonResult.Text = "Купить";
+            this.buttonResult.Text = "Конвертировать";
             this.buttonResult.UseVisualStyleBackColor = true;
             this.buttonResult.Click += new System.EventHandler(this.ButtonResult_Click);
             // 
